@@ -1,5 +1,5 @@
 /* Converting temperature from celsius to fahrenheit 
-and vice versa created by Luis Hernandez*/
+and vice versa, created by Luis Hernandez*/
 
 #include <iostream>
 
